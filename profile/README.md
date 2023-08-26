@@ -3,6 +3,7 @@
 [gitlab](https://gitlab.com/wp-activators)
 
 ### Plugins:
+- [Duplicator Pro Activator](https://github.com/wp-activators/duplicator-pro-activator)
 - [Elementor Pro Activator](https://github.com/wp-activators/elementor-pro-activator)
 - [NEX-Forms Activator](https://github.com/wp-activators/nex-forms-activator)
 - [NinjaScanner Activator](https://github.com/wp-activators/ninjascanner-activator)
