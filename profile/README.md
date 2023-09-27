@@ -1,6 +1,8 @@
 # WordPress Activators
 [![GitHub followers](https://img.shields.io/github/followers/wp-activators.svg?style=social&label=Followers)](https://github.com/wp-activators?tab=followers) [![WordPress](https://img.shields.io/badge/Wordpress-^5.9.0-blue?style=flat-square&logo=wordpress)](#) [![PHP](https://img.shields.io/badge/PHP-^7.2_|_^8.0-green.svg)](#)
 
+**Big Thanks to** [![Babiato](https://camo.githubusercontent.com/f05dc8fed0fd3fa91852d4403fd28a0067ca9f7eaaf69591a23d2de34d038d26/68747470733a2f2f62616269612e746f2f646174612f6173736574732f6c6f676f2f6c6f676f2e706e67)](https://babia.to/)
+
 [gitlab](https://gitlab.com/wp-activators)
 
 ### Plugins:
